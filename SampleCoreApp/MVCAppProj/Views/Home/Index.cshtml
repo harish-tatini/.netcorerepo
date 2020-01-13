@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model MVCAppProj.Models.UserViewModel
+
+<div id="divLogin">
+    <div class="row" style="padding-top: 25px">
+        <div>
+            <h4>
+                Login to this Application using your Google account.
+            </h4>
+        </div>
+        <div>
+            <div id="btnSignIn" class="g-signin2" data-onsuccess="onSignIn" data-theme="dark"></div>
+        </div>
+    </div>
+</div>
+<div id="divHome" style="display:none">
+    <div class="row">
+        <div class="col-md-6">
+            <h2>Welcome @Html.Label("", "", new { id = "lblSignedUserName" })..!!</h2>
+        </div>
+        <div class="col-md-6">
+            <div style="text-align: right; padding-top: 25px;">
+                <input id="btnSignOut" type="button" onclick="signOut();" value="Sign out" style="width: 120px" />
+            </div>
+        </div>
+    </div>
+    <div class="row" id="divBtnToGetData">
+        Click <input id="btnGetData" type="button" onclick="getData();" value="here" /> to get list of Users.
+    </div>
+</div>
+<div id="divData" style="display:none">
+    <div class="row">
+        <table>
+            @foreach (var user in Model.UsersList)
+            {
+                <tr>
+                    <td>Name: </td>
+                    <td>@user.FirstName @user.LastName</td>
+                </tr>
+                <tr>
+                    <td>Company: </td>
+                    <td>@user.Employer</td>
+                </tr>
+                <tr>
+                    <td>Designation: </td>
+                    <td>@user.Designation</td>
+                </tr>
+                <tr>
+                    <td>Country: </td>
+                    <td>@user.Country</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+<script>
+    function onSignIn(googleUser) {
+        var profile = googleUser.getBasicProfile();
+        $("#btnSignIn").hide();
+        $("#divLogin").hide();
+        $("#divHome").show();
+        $("#btnSignOut").show();
+        $("#lblSignedUserName").text(profile.getName());
+    }
+
+    function signOut() {
+        var auth2 = gapi.auth2.getAuthInstance();
+        auth2.signOut().then(function () {
+            $("#btnSignOut").hide();
+            $("#divHome").hide();
+            $("#divData").hide();
+            $("#divLogin").show();
+            $("#btnSignIn").show();
+        });
+    }
+
+    function getData() {
+        $.ajax({
+            type: "POST",
+            url: "Home/GetData",
+            contentType: "application/json; charset=utf-8",
+            success: function (response) {
+                $("#divBtnToGetData").hide();
+                $("#divData").show();
+            },
+            failure: function (response) {
+                console.log('failure: ' + response);
+            },
+            error: function (response) {
+                console.log('error: ' + response);
+            }
+        });
+    }
+</script>

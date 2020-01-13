@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApiProj.Business.Contract\WebApiProj.Business.Contract.csproj" />
+    <ProjectReference Include="..\WebApiProj.Client.Models\WebApiProj.Client.Models.csproj" />
+    <ProjectReference Include="..\WebApiProj.Repository.Contract\WebApiProj.Repository.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

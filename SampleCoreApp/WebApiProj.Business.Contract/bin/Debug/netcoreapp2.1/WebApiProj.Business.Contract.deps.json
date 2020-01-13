@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebApiProj.Business.Contract/1.0.0": {
+        "dependencies": {
+          "WebApiProj.Client.Models": "1.0.0"
+        },
+        "runtime": {
+          "WebApiProj.Business.Contract.dll": {}
+        }
+      },
+      "WebApiProj.Client.Models/1.0.0": {
+        "runtime": {
+          "WebApiProj.Client.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiProj.Business.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiProj.Client.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

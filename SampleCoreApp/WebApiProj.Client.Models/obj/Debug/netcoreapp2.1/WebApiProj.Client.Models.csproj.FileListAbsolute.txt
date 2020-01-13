@@ -1,0 +1,16 @@
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\bin\Debug\netcoreapp2.1\WebApiProj.Client.Models.deps.json
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\bin\Debug\netcoreapp2.1\WebApiProj.Client.Models.dll
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\bin\Debug\netcoreapp2.1\WebApiProj.Client.Models.pdb
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.AssemblyInfoInputs.cache
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.AssemblyInfo.cs
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.dll
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.pdb
+D:\Harish\repo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.csprojAssemblyReference.cache
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\bin\Debug\netcoreapp2.1\WebApiProj.Client.Models.deps.json
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\bin\Debug\netcoreapp2.1\WebApiProj.Client.Models.dll
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\bin\Debug\netcoreapp2.1\WebApiProj.Client.Models.pdb
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.csprojAssemblyReference.cache
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.AssemblyInfoInputs.cache
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.AssemblyInfo.cs
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.dll
+D:\.netcorerepo\SampleCoreApp\WebApiProj.Client.Models\obj\Debug\netcoreapp2.1\WebApiProj.Client.Models.pdb

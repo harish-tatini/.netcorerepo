@@ -1,0 +1,8 @@
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\bin\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.deps.json
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\bin\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.dll
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\bin\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.pdb
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\obj\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.csprojAssemblyReference.cache
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\obj\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.AssemblyInfoInputs.cache
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\obj\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.AssemblyInfo.cs
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\obj\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.dll
+D:\Harish\repo\SampleCoreApp\WebApiProj.Repository.Contract\obj\Debug\netcoreapp3.0\WebApiProj.Repository.Contract.pdb

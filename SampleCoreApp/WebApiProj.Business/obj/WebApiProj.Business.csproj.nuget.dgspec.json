@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business\\WebApiProj.Business.csproj": {}
+  },
+  "projects": {
+    "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business.Contract\\WebApiProj.Business.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business.Contract\\WebApiProj.Business.Contract.csproj",
+        "projectName": "WebApiProj.Business.Contract",
+        "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business.Contract\\WebApiProj.Business.Contract.csproj",
+        "packagesPath": "C:\\Users\\HarishTatini\\.nuget\\packages\\",
+        "outputPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HarishTatini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\WebApiProj.Client.Models.csproj": {
+                "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\WebApiProj.Client.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business\\WebApiProj.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business\\WebApiProj.Business.csproj",
+        "projectName": "WebApiProj.Business",
+        "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business\\WebApiProj.Business.csproj",
+        "packagesPath": "C:\\Users\\HarishTatini\\.nuget\\packages\\",
+        "outputPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HarishTatini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business.Contract\\WebApiProj.Business.Contract.csproj": {
+                "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Business.Contract\\WebApiProj.Business.Contract.csproj"
+              },
+              "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\WebApiProj.Client.Models.csproj": {
+                "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\WebApiProj.Client.Models.csproj"
+              },
+              "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Repository.Contract\\WebApiProj.Repository.Contract.csproj": {
+                "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Repository.Contract\\WebApiProj.Repository.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\WebApiProj.Client.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\WebApiProj.Client.Models.csproj",
+        "projectName": "WebApiProj.Client.Models",
+        "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\WebApiProj.Client.Models.csproj",
+        "packagesPath": "C:\\Users\\HarishTatini\\.nuget\\packages\\",
+        "outputPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Client.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HarishTatini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.DataAccess.Models\\WebApiProj.DataAccess.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.DataAccess.Models\\WebApiProj.DataAccess.Models.csproj",
+        "projectName": "WebApiProj.DataAccess.Models",
+        "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.DataAccess.Models\\WebApiProj.DataAccess.Models.csproj",
+        "packagesPath": "C:\\Users\\HarishTatini\\.nuget\\packages\\",
+        "outputPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.DataAccess.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HarishTatini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Repository.Contract\\WebApiProj.Repository.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Repository.Contract\\WebApiProj.Repository.Contract.csproj",
+        "projectName": "WebApiProj.Repository.Contract",
+        "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Repository.Contract\\WebApiProj.Repository.Contract.csproj",
+        "packagesPath": "C:\\Users\\HarishTatini\\.nuget\\packages\\",
+        "outputPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.Repository.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HarishTatini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.DataAccess.Models\\WebApiProj.DataAccess.Models.csproj": {
+                "projectPath": "D:\\Harish\\repo\\SampleCoreApp\\WebApiProj.DataAccess.Models\\WebApiProj.DataAccess.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\bin\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.deps.json
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\bin\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.dll
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\bin\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.pdb
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.AssemblyInfoInputs.cache
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.AssemblyInfo.cs
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.dll
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.pdb
+D:\Harish\repo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.csprojAssemblyReference.cache
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\bin\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.deps.json
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\bin\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.dll
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\bin\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.pdb
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.csprojAssemblyReference.cache
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.AssemblyInfoInputs.cache
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.AssemblyInfo.cs
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.dll
+D:\.netcorerepo\SampleCoreApp\WebApiProj.DataAccess.Models\obj\Debug\netcoreapp2.1\WebApiProj.DataAccess.Models.pdb

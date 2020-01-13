@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebApiProj.Repository.Contract/1.0.0": {
+        "dependencies": {
+          "WebApiProj.DataAccess.Models": "1.0.0"
+        },
+        "runtime": {
+          "WebApiProj.Repository.Contract.dll": {}
+        }
+      },
+      "WebApiProj.DataAccess.Models/1.0.0": {
+        "runtime": {
+          "WebApiProj.DataAccess.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiProj.Repository.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiProj.DataAccess.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
